@@ -50,6 +50,6 @@ public class App {
         int[] scores = {5,4,3,2,1};
         App ap = new App();
 
-        System.out.println("answer: " + ap.solution(scores));
+        // System.out.println("answer: " + ap.solution(scores));
     }
 }
